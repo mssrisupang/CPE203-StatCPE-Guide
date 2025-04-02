@@ -9,4 +9,5 @@ Welcome to the GitHub repository of the CPE203 StatCPE Guide, a custom ChatGPT m
 - **Statistical Tool Integration**: Utilizes Python for practical demonstrations and problem-solving.
 - **Multiple Learning Modes**: Includes Challenge, Deep Dive, Critical Thinking, and Scenario Modes to enhance learning.
 - **Privacy Focused**: Designed with a strong emphasis on user privacy, not collecting or storing personal data.
-
+## Click
+(CPE203 StatCPE Guide)[https://chatgpt.com/g/g-67ed1a1044288191a9ee9bd0ca73e61e-cpe203-statcpe-guide]
