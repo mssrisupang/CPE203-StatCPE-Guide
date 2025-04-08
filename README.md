@@ -1,4 +1,4 @@
-# CPE203 StatCPE Guide: Custom GPT for Statistics
+# CPE203 StatCPE Guider: Custom GPT for Statistics
 
 Welcome to the GitHub repository of the CPE203 StatCPE Guide, a custom ChatGPT designed to assist students in the Computer Engineering program at SWU with their statistics courses. This AI-driven tool acts as an interactive tutor, helping students understand complex statistical concepts, guiding them through their capstone projects, and providing dynamic support in their coursework.
 
